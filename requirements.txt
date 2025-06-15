@@ -5,3 +5,6 @@ ontobio
 matplotlib
 seaborn
 jupyter
+openai
+google-generativeai
+anthropic
